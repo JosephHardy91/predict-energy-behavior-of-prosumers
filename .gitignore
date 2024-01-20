@@ -3,3 +3,5 @@ example_test_files/
 *.so
 *.Identifier
 *-checkpoint.ipynb
+*.zip
+*.pyc
